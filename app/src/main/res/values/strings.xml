@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FotosDio</string>
+    <string name="selected_img">Imagem selecionada pelo usuário</string>
+    <string name="img_select">Selecione uma imagem</string>
+</resources>
